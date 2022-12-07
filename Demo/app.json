@@ -1,0 +1,17 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/logs/logs",
+        "pages/third/third"
+    ],
+    "usingComponents": {
+        "component-tag-name": "/components/movie/movie",
+        "component-tag-name1": "/components/music/music"
+    },
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "QQ小程序",
+        "navigationBarTextStyle": "black"
+    }
+}

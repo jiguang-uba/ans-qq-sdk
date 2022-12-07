@@ -1,0 +1,6 @@
+{
+    "usingComponents": {
+        "component-tag-name": "/components/movie/movie",
+        "component-tag-name1": "/components/music/music"
+    }
+}
